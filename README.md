@@ -33,4 +33,6 @@ Feel free to fork it to create your own signature template!
 
 - This generator is built with _react_ and _vite_, with _mui_ for the builder design.
 
-- For the email signature's template, we use **react-email** components, which allow maximum compatibility with all email clients (gmail, outlook, etc...).
+- For the email signature's template, we use [react-email](https://react.email/) components, which allow maximum compatibility with all email clients (gmail, outlook, etc...).
+
+You can check the compatibility of each CSS and HTML property on [caniemail.com](https://www.caniemail.com/).
